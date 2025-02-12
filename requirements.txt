@@ -1,0 +1,4 @@
+streamlit==1.29.0
+python-docx==1.0.1
+datasets==2.15.0
+huggingface-hub==0.19.4
